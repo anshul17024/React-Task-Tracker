@@ -1,0 +1,8 @@
+# to initialize a react project:-
+npx create-react-app <folder_name>
+
+# to run the server of website:-
+npm start
+
+# snippet for a Component.js file:-
+rafce
